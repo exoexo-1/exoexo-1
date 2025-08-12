@@ -1,57 +1,23 @@
-# Hi there, I'm Lakshya Agrawal 👋
+<h1 align="center">Hi 👋, I'm Lakshya Agrawal</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | GEN AI Engineer</h3>
 
-💻 **AI/ML Enthusiast | Full-Stack Developer | LLM Engineer**  
-I specialize in building intelligent, scalable systems — from **real-time vision assistants** to **enterprise-grade lead generation tools** — leveraging cutting-edge AI, Large Language Models, and robust backend architectures.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=exoexo-1&label=Profile%20views&color=0e75b6&style=flat" alt="exoexo-1" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exoexo-1" alt="exoexo-1" /></a> </p>
 
-## 🚀 About Me
-- 🎓 Final-year **B.Tech CSE** student at *University of Petroleum and Energy Studies*
-- 🔭 Currently working at **MergeLine** on AI-powered Chrome extensions for large-scale business data scraping and lead generation
-- 🌱 Exploring **Generative AI**, **LLM fine-tuning**, and **cloud-based AI deployment**
-- 🎯 Goal: Build AI-driven systems that **solve real-world problems** and **scale globally**
+- 📫 How to reach me **lakshya007j@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PzR8IKad7fGe3Tp6hCW1Mq6GpDRhTQzU/view?usp=sharing](https://drive.google.com/file/d/1PzR8IKad7fGe3Tp6hCW1Mq6GpDRhTQzU/view?usp=sharing)
 
-## 🛠 Tech Stack
-**Languages:** Java, Python, C/C++, JavaScript, HTML, CSS, PHP  
-**Frameworks & Libraries:** Spring Boot, TensorFlow, PyTorch, OpenCV, Node.js, React.js, BeautifulSoup, Scrapy, Ollama  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools & Platforms:** Git, Chrome Extensions, AI/LLM Tooling, Google APIs
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lakshya-agrawal-356892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-agrawal-356892" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/exo098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="exo098" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📌 Featured Projects
-### [🔍 Visual Echo - Real-Time Caption Generation](https://github.com/exoexo-1/Real-Time-Caption-Generation-for-Visually-Impaired)  
-*Python, BLIP, EasyOCR, CLIP, OpenCV*  
-An AI-powered vision assistant for visually impaired users — generates contextual scene captions from live video feeds, integrates **speech recognition** and **text-to-speech**, optimized for low latency.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exoexo-1&show_icons=true&locale=en&layout=compact" alt="exoexo-1" /></p>
 
-### [🛠 MergeLine Leads Builder](http://mergeline.in/)  
-*JavaScript, Chrome APIs, AI/LLM Pipelines*  
-A high-performance Chrome extension to scrape and organize **Google Business**, **Meta Ads**, and **social media leads** with 99% accuracy, real-time dashboards, and bulk export features.
-
-### [📚 LLM-Based Book Publishing Assistant](https://github.com/exoexo-1/Automated-Book-Publication-Workflow)  
-*Python, Gradio, Playwright, ChromaDB, RL, GPT-4*  
-Automated editorial pipeline for digital publishing — rewrites, reviews, and edits book chapters with **reinforcement learning agents** to improve accuracy and efficiency.
-
----
-
-## 🏆 Achievements & Certifications
-- Innovation Through Design – *The University of Sydney (Coursera)*
-- BigQuery Data Analysis – *Coursera*
-- The Complete SQL Bootcamp – *Udemy*
-- LLM Engineering – *Udemy*
-- Learning How to Learn – *Coursera*
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshya-agrawal-35689226b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/exoexo-1)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/exo098/)  
-📧 Email: **lakshya007j@gmail.com**
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
-Let's build something amazing together 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exoexo-1&show_icons=true&locale=en" alt="exoexo-1" /></p>
