@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=exoexo-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=exoexo-1&theme=algolia&margin-w=8&margin-h=8" alt="trophies" />
-  </a>
 </p>
 
 ---
