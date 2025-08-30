@@ -9,7 +9,6 @@
 
 ### 📌 About Me
 - 🎓 Final-year **B.Tech CSE** student specializing in AI/ML & Full-Stack Development  
-- 🔭 Currently working at **MergeLine** on AI-powered lead generation and data scraping solutions  
 - 🌱 Exploring **Generative AI**, **LLM fine-tuning**, and **Cloud-based AI systems**  
 - 📫 Reach me at **lakshya007j@gmail.com**  
 - 📄 [View my resume](https://drive.google.com/file/d/1PzR8IKad7fGe3Tp6hCW1Mq6GpDRhTQzU/view?usp=sharing)
