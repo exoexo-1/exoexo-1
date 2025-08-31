@@ -49,11 +49,21 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p>
+  <!-- Top Languages -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exoexo-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <p>
+  <!-- General Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=exoexo-1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p>
+  <!-- Streak Stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exoexo-1&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ---
