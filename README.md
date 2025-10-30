@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Agrawal</h1>
-<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | GenAI Engineer</h3>
+<h3 align="center">AI/ML Enthusiast | GenAI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=exoexo-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
