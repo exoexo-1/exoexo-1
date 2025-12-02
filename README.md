@@ -11,7 +11,7 @@
 - 🎓 Final-year **B.Tech CSE** student specializing in AI/ML & Full-Stack Development  
 - 🌱 Exploring **Generative AI**, **LLM fine-tuning**, and **Cloud-based AI systems**  
 - 📫 Reach me at **lakshya007j@gmail.com**  
-- 📄 [View my resume](https://drive.google.com/file/d/1BSKc4rE43H2bFiFybwmCtCZmxHg8_rUS/view?usp=drive_link)
+- 📄 [View my resume](https://drive.google.com/file/d/12MCrC1TjspgRItRGJgh4_bzUZd3Q2mr4/view?usp=drive_link)
 
 ---
 
